@@ -1,5 +1,5 @@
 :page-layout: config
-= +jmsDestination - JMS Destination+ (+jmsDestination+)
+= +jmsDestination - JMS Destination+
 :stylesheet: ../config.css
 :linkcss: 
 :nofooter: 

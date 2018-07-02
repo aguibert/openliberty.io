@@ -1,5 +1,5 @@
 :page-layout: config
-= +javaPermission - Java 2 Security+ (+javaPermission+)
+= +javaPermission - Java 2 Security+
 :stylesheet: ../config.css
 :linkcss: 
 :nofooter: 

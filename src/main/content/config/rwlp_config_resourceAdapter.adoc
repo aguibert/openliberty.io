@@ -1,5 +1,5 @@
 :page-layout: config
-= +resourceAdapter - Resource Adapter+ (+resourceAdapter+)
+= +resourceAdapter - Resource Adapter+
 :stylesheet: ../config.css
 :linkcss: 
 :nofooter: 

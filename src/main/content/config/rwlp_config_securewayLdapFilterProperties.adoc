@@ -1,5 +1,5 @@
 :page-layout: config
-= +securewayLdapFilterProperties - IBM SecureWay Directory Server LDAP Filters+ (+securewayLdapFilterProperties+)
+= +securewayLdapFilterProperties - IBM SecureWay Directory Server LDAP Filters+
 :stylesheet: ../config.css
 :linkcss: 
 :nofooter: 

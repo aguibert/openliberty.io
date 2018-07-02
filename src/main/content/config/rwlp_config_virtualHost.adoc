@@ -1,5 +1,5 @@
 :page-layout: config
-= +virtualHost - Virtual Host+ (+virtualHost+)
+= +virtualHost - Virtual Host+
 :stylesheet: ../config.css
 :linkcss: 
 :nofooter: 

@@ -1,5 +1,5 @@
 :page-layout: config
-= +httpSessionCache - HTTP Session Cache+ (+httpSessionCache+)
+= +httpSessionCache - HTTP Session Cache+
 :stylesheet: ../config.css
 :linkcss: 
 :nofooter: 

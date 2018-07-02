@@ -1,5 +1,5 @@
 :page-layout: config
-= +netscapeLdapFilterProperties - Netscape Directory Server LDAP Filters+ (+netscapeLdapFilterProperties+)
+= +netscapeLdapFilterProperties - Netscape Directory Server LDAP Filters+
 :stylesheet: ../config.css
 :linkcss: 
 :nofooter: 

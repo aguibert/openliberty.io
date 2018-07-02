@@ -1,5 +1,5 @@
 :page-layout: config
-= +httpProxyRedirect - HTTP Proxy Redirect+ (+httpProxyRedirect+)
+= +httpProxyRedirect - HTTP Proxy Redirect+
 :stylesheet: ../config.css
 :linkcss: 
 :nofooter: 

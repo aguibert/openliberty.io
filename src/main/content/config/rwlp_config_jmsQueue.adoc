@@ -1,5 +1,5 @@
 :page-layout: config
-= +jmsQueue - JMS Queue+ (+jmsQueue+)
+= +jmsQueue - JMS Queue+
 :stylesheet: ../config.css
 :linkcss: 
 :nofooter: 

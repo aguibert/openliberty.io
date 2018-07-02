@@ -1,5 +1,5 @@
 :page-layout: config
-= +httpSessionDatabase - HTTP Session Database+ (+httpSessionDatabase+)
+= +httpSessionDatabase - HTTP Session Database+
 :stylesheet: ../config.css
 :linkcss: 
 :nofooter: 

@@ -1,5 +1,5 @@
 :page-layout: config
-= +jmsConnectionFactory - JMS Connection Factory+ (+jmsConnectionFactory+)
+= +jmsConnectionFactory - JMS Connection Factory+
 :stylesheet: ../config.css
 :linkcss: 
 :nofooter: 

@@ -1,5 +1,5 @@
 :page-layout: config
-= +wasJmsEndpoint - WAS JMS Endpoint+ (+wasJmsEndpoint+)
+= +wasJmsEndpoint - WAS JMS Endpoint+
 :stylesheet: ../config.css
 :linkcss: 
 :nofooter: 

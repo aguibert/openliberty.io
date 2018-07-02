@@ -1,5 +1,5 @@
 :page-layout: config
-= +jaasLoginModule - JAAS Login Module+ (+jaasLoginModule+)
+= +jaasLoginModule - JAAS Login Module+
 :stylesheet: ../config.css
 :linkcss: 
 :nofooter: 

@@ -1,5 +1,5 @@
 :page-layout: config
-= +jdbcDriver - JDBC Driver+ (+jdbcDriver+)
+= +jdbcDriver - JDBC Driver+
 :stylesheet: ../config.css
 :linkcss: 
 :nofooter: 

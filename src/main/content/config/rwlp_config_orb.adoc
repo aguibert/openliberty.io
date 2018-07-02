@@ -1,5 +1,5 @@
 :page-layout: config
-= +orb - Object Request Broker (ORB)+ (+orb+)
+= +orb - Object Request Broker (ORB)+
 :stylesheet: ../config.css
 :linkcss: 
 :nofooter: 

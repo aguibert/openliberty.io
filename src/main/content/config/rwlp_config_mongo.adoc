@@ -1,5 +1,5 @@
 :page-layout: config
-= +mongo - Mongo+ (+mongo+)
+= +mongo - Mongo+
 :stylesheet: ../config.css
 :linkcss: 
 :nofooter: 

@@ -1,5 +1,5 @@
 :page-layout: config
-= +springBootApplication - Spring Boot Application+ (+springBootApplication+)
+= +springBootApplication - Spring Boot Application+
 :stylesheet: ../config.css
 :linkcss: 
 :nofooter: 

@@ -1,5 +1,5 @@
 :page-layout: config
-= +mpJwt - MicroProfile JWT+ (+mpJwt+)
+= +mpJwt - MicroProfile JWT+
 :stylesheet: ../config.css
 :linkcss: 
 :nofooter: 

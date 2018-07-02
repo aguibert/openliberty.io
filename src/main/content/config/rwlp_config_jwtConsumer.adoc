@@ -1,5 +1,5 @@
 :page-layout: config
-= +jwtConsumer - JWT Consumer+ (+jwtConsumer+)
+= +jwtConsumer - JWT Consumer+
 :stylesheet: ../config.css
 :linkcss: 
 :nofooter: 

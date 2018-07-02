@@ -1,5 +1,5 @@
 :page-layout: config
-= +webAppSecurity - Web Container Application Security+ (+webAppSecurity+)
+= +webAppSecurity - Web Container Application Security+
 :stylesheet: ../config.css
 :linkcss: 
 :nofooter: 

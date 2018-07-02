@@ -1,5 +1,5 @@
 :page-layout: config
-= +sslDefault - SSL Default Repertoire+ (+sslDefault+)
+= +sslDefault - SSL Default Repertoire+
 :stylesheet: ../config.css
 :linkcss: 
 :nofooter: 

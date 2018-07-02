@@ -1,5 +1,5 @@
 :page-layout: config
-= +mailSession - Mail Session Object+ (+mailSession+)
+= +mailSession - Mail Session Object+
 :stylesheet: ../config.css
 :linkcss: 
 :nofooter: 

@@ -1,5 +1,5 @@
 :page-layout: config
-= +jwtBuilder - JWT Builder+ (+jwtBuilder+)
+= +jwtBuilder - JWT Builder+
 :stylesheet: ../config.css
 :linkcss: 
 :nofooter: 

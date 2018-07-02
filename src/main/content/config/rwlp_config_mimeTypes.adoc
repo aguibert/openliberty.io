@@ -1,5 +1,5 @@
 :page-layout: config
-= +mimeTypes - Default Mime Types+ (+mimeTypes+)
+= +mimeTypes - Default Mime Types+
 :stylesheet: ../config.css
 :linkcss: 
 :nofooter: 

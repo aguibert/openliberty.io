@@ -1,5 +1,5 @@
 :page-layout: config
-= +iiopServerPolicies - IIOP Server Policies+ (+iiopServerPolicies+)
+= +iiopServerPolicies - IIOP Server Policies+
 :stylesheet: ../config.css
 :linkcss: 
 :nofooter: 

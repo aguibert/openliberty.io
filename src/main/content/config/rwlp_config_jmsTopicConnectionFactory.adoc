@@ -1,5 +1,5 @@
 :page-layout: config
-= +jmsTopicConnectionFactory - JMS Topic Connection Factory+ (+jmsTopicConnectionFactory+)
+= +jmsTopicConnectionFactory - JMS Topic Connection Factory+
 :stylesheet: ../config.css
 :linkcss: 
 :nofooter: 

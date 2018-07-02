@@ -1,5 +1,5 @@
 :page-layout: config
-= +httpSession - HTTP Session+ (+httpSession+)
+= +httpSession - HTTP Session+
 :stylesheet: ../config.css
 :linkcss: 
 :nofooter: 

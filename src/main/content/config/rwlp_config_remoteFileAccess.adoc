@@ -1,5 +1,5 @@
 :page-layout: config
-= +remoteFileAccess - Remote File Access+ (+remoteFileAccess+)
+= +remoteFileAccess - Remote File Access+
 :stylesheet: ../config.css
 :linkcss: 
 :nofooter: 

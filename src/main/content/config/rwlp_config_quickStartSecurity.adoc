@@ -1,5 +1,5 @@
 :page-layout: config
-= +quickStartSecurity - Quick Start Security+ (+quickStartSecurity+)
+= +quickStartSecurity - Quick Start Security+
 :stylesheet: ../config.css
 :linkcss: 
 :nofooter: 

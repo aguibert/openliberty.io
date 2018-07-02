@@ -1,5 +1,5 @@
 :page-layout: config
-= +sslOptions - SSL Options+ (+sslOptions+)
+= +sslOptions - SSL Options+
 :stylesheet: ../config.css
 :linkcss: 
 :nofooter: 

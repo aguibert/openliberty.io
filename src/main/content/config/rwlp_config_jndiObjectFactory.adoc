@@ -1,5 +1,5 @@
 :page-layout: config
-= +jndiObjectFactory - JNDI Object Factory+ (+jndiObjectFactory+)
+= +jndiObjectFactory - JNDI Object Factory+
 :stylesheet: ../config.css
 :linkcss: 
 :nofooter: 

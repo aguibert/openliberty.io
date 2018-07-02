@@ -1,5 +1,5 @@
 :page-layout: config
-= +managedThreadFactory - Managed Thread Factory+ (+managedThreadFactory+)
+= +managedThreadFactory - Managed Thread Factory+
 :stylesheet: ../config.css
 :linkcss: 
 :nofooter: 

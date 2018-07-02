@@ -1,5 +1,5 @@
 :page-layout: config
-= +jspEngine - JSP Engine+ (+jspEngine+)
+= +jspEngine - JSP Engine+
 :stylesheet: ../config.css
 :linkcss: 
 :nofooter: 

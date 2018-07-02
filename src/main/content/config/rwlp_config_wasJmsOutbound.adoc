@@ -1,5 +1,5 @@
 :page-layout: config
-= +wasJmsOutbound - WAS JMS Outbound+ (+wasJmsOutbound+)
+= +wasJmsOutbound - WAS JMS Outbound+
 :stylesheet: ../config.css
 :linkcss: 
 :nofooter: 

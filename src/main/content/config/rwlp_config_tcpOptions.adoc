@@ -1,5 +1,5 @@
 :page-layout: config
-= +tcpOptions - TCP Options+ (+tcpOptions+)
+= +tcpOptions - TCP Options+
 :stylesheet: ../config.css
 :linkcss: 
 :nofooter: 

@@ -1,5 +1,5 @@
 :page-layout: config
-= +ldapRegistry - LDAP User Registry+ (+ldapRegistry+)
+= +ldapRegistry - LDAP User Registry+
 :stylesheet: ../config.css
 :linkcss: 
 :nofooter: 

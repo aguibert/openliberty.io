@@ -1,5 +1,5 @@
 :page-layout: config
-= +trustAssociation - Trust Association Interceptor+ (+trustAssociation+)
+= +trustAssociation - Trust Association Interceptor+
 :stylesheet: ../config.css
 :linkcss: 
 :nofooter: 

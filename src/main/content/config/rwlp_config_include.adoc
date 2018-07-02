@@ -1,5 +1,5 @@
 :page-layout: config
-= +include - Include+ (+include+)
+= +include - Include+
 :stylesheet: ../config.css
 :linkcss: 
 :nofooter: 

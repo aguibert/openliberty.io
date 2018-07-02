@@ -1,5 +1,5 @@
 :page-layout: config
-= +managedExecutorService - Managed Executor+ (+managedExecutorService+)
+= +managedExecutorService - Managed Executor+
 :stylesheet: ../config.css
 :linkcss: 
 :nofooter: 

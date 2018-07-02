@@ -1,0 +1,49 @@
+./pom.xml:					<configuration>
+./pom.xml:					</configuration>
+./pom.xml:				<configuration>
+./pom.xml:					<configFile>src/main/wlp/server.xml</configFile>
+./pom.xml:				</configuration>
+./scripts/modify_config_adoc.sh:    :page-layout: config
+./scripts/modify_config_adoc.sh:find src/main/content/config -name *.adoc -exec bash -c 'addPageLayoutAttribute {}' \;
+./src/main/webapp/WEB-INF/web.xml:  <session-config>
+./src/main/webapp/WEB-INF/web.xml:    <cookie-config>
+./src/main/webapp/WEB-INF/web.xml:    </cookie-config>
+./src/main/webapp/WEB-INF/web.xml:  </session-config>
+./src/main/content/_includes/doc_header.html:                                <li><a href="/docs/ref/config/">Server Configuration</a></li>
+./src/main/content/_includes/doc_header.html:                    {% elsif page.type == 'config' %}
+./src/main/content/_includes/doc_header.html:                            <a href="/docs/ref/config/">Config</a>
+./src/main/content/_includes/doc_header.html:            {% if page.type == 'config' %}
+./src/main/content/_includes/disqus_comments.html:    var disqus_config = function () {
+./src/main/content/_assets/css/config.css:#row, #toc_column, #toc_inner, #config_content {
+./src/main/content/_assets/css/config.css:/* config/feature content styling */
+./src/main/content/_assets/css/config.css:#config_content {
+./src/main/content/_assets/css/config.css:#config_content > .ulist {
+./src/main/content/_assets/css/config.css:iframe.config_content_frame {
+./src/main/content/_assets/css/config.css:#config_title {
+./src/main/content/_assets/css/config.css:    #config_content {
+./src/main/content/_assets/css/config.css:    #toc_column, #config_content {
+./src/main/content/_assets/js/configs.js:            $("#config_content").show();
+./src/main/content/_assets/js/configs.js:        if (href.indexOf("/config/") !== -1) {
+./src/main/content/_assets/js/configs.js:    return (getTitle(iframeContents.find("#config_title").text()));
+./src/main/content/_assets/js/configs.js:    var configTitle = frameContents.find("#config_title");
+./src/main/content/_assets/js/configs.js:    var configTitleTop = configTitle[0].getBoundingClientRect().top;
+./src/main/content/_assets/js/configs.js:    if (configTitleTop < 0) {
+./src/main/content/_assets/js/configs.js:            var fullHref = '/config/' + window.location.hash.substring(1)
+./src/main/content/_assets/js/configs.js:                $("#config_content").show();
+./src/main/content/_assets/js/configs.js:                $("#config_content").hide();
+./src/main/content/about.html:                Open Liberty streamlines deployment. Build, change and maintain your apps with a simple XML config and a clear separation between code and configuration.
+./src/main/content/_layouts/config.html:layout: config-content
+./src/main/content/_layouts/config.html:css: config
+./src/main/content/_layouts/config.html:    <div id="config_title"> {{ page.title }}
+./src/main/content/configs.html:type: config
+./src/main/content/configs.html:- config
+./src/main/content/configs.html:js: configs
+./src/main/content/configs.html:permalink: /docs/ref/config/
+./src/main/content/configs.html:<!-- Build list of config pages -->
+./src/main/content/configs.html:{% assign configDocs = site.pages | where: 'layout', 'config' %}
+./src/main/content/configs.html:                {% if configDocs %}
+./src/main/content/configs.html:                        {% for config in configDocs %}
+./src/main/content/configs.html:                            <a href="{{ config.url }}" target="contentFrame">{{ config.title }}</a>
+./src/main/content/configs.html:                <div>No config found</div>
+./src/main/content/configs.html:        <div id="config_content" tabindex="0" class="col-sm-9 position_relative">
+./src/main/content/configs.html:            <iframe class="config_content_frame" name="contentFrame"></iframe>

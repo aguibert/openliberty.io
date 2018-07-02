@@ -1,5 +1,5 @@
 :page-layout: config
-= +jndiURLEntry - JNDI URL Entry+ (+jndiURLEntry+)
+= +jndiURLEntry - JNDI URL Entry+
 :stylesheet: ../config.css
 :linkcss: 
 :nofooter: 

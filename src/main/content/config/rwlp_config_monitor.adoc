@@ -1,5 +1,5 @@
 :page-layout: config
-= +monitor - Monitor+ (+monitor+)
+= +monitor - Monitor+
 :stylesheet: ../config.css
 :linkcss: 
 :nofooter: 

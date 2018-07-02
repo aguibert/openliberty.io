@@ -1,5 +1,5 @@
 :page-layout: config
-= +mongoDB - MongoDB DB+ (+mongoDB+)
+= +mongoDB - MongoDB DB+
 :stylesheet: ../config.css
 :linkcss: 
 :nofooter: 

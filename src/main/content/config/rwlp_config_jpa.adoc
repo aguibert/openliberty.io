@@ -1,5 +1,5 @@
 :page-layout: config
-= +jpa - JPA Container+ (+jpa+)
+= +jpa - JPA Container+
 :stylesheet: ../config.css
 :linkcss: 
 :nofooter: 

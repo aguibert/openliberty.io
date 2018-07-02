@@ -1,5 +1,5 @@
 :page-layout: config
-= +jndiReferenceEntry - JNDI Reference Entry+ (+jndiReferenceEntry+)
+= +jndiReferenceEntry - JNDI Reference Entry+
 :stylesheet: ../config.css
 :linkcss: 
 :nofooter: 

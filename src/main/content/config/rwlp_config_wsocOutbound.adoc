@@ -1,5 +1,5 @@
 :page-layout: config
-= +wsocOutbound - WAS WebSocket Outbound+ (+wsocOutbound+)
+= +wsocOutbound - WAS WebSocket Outbound+
 :stylesheet: ../config.css
 :linkcss: 
 :nofooter: 

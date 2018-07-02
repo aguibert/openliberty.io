@@ -1,5 +1,5 @@
 :page-layout: config
-= +jwtSso - JWT SSO+ (+jwtSso+)
+= +jwtSso - JWT SSO+
 :stylesheet: ../config.css
 :linkcss: 
 :nofooter: 

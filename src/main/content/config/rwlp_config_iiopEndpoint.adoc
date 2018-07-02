@@ -1,5 +1,5 @@
 :page-layout: config
-= +iiopEndpoint - IIOP Endpoint+ (+iiopEndpoint+)
+= +iiopEndpoint - IIOP Endpoint+
 :stylesheet: ../config.css
 :linkcss: 
 :nofooter: 

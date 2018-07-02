@@ -1,5 +1,5 @@
 :page-layout: config
-= +webApplication - Web Application+ (+webApplication+)
+= +webApplication - Web Application+
 :stylesheet: ../config.css
 :linkcss: 
 :nofooter: 

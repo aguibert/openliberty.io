@@ -1,5 +1,5 @@
 :page-layout: config
-= +variable - Variable Declaration+ (+variable+)
+= +variable - Variable Declaration+
 :stylesheet: ../config.css
 :linkcss: 
 :nofooter: 

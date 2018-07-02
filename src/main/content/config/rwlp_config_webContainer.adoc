@@ -1,5 +1,5 @@
 :page-layout: config
-= +webContainer - Web Container+ (+webContainer+)
+= +webContainer - Web Container+
 :stylesheet: ../config.css
 :linkcss: 
 :nofooter: 

@@ -1,5 +1,5 @@
 :page-layout: config
-= +ltpa - LTPA Token+ (+ltpa+)
+= +ltpa - LTPA Token+
 :stylesheet: ../config.css
 :linkcss: 
 :nofooter: 

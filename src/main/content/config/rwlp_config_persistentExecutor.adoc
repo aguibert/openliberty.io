@@ -1,5 +1,5 @@
 :page-layout: config
-= +persistentExecutor - Persistent Scheduled Executor+ (+persistentExecutor+)
+= +persistentExecutor - Persistent Scheduled Executor+
 :stylesheet: ../config.css
 :linkcss: 
 :nofooter: 
